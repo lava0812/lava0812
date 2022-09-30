@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Rust and Next.js**
 
-- 📫 How to reach me **lavanyanr16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
