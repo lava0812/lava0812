@@ -2,9 +2,9 @@
 
 <br/>
 
-- 🌱 My name is Lavanyan Rathy, I am a robotics student from Norway, welcome to my GitHub home page
-- ⚡ I know Python and ROS2
-- 😄 And a little bit of TypeScript, ReactJS and C++.
+- 🌱 I’m Lavanyan Rathy, a robotics enthusiast from Norway. Welcome to my GitHub space!
+- ⚡ I’m passionate about exploring the intersection of image analysis, AI, machine learning, Python, ROS, web development, SQL, and C++.
+- 🚀 Currently diving into the world of Rust, and I’ve also got experience with ROS2, TypeScript, and ReactJS.
 
 <br/>
 
