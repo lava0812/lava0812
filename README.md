@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Lavanyan Rathy!
+## 👋 Hi there, I’m Lavanyan Rathy!
 Engineer @ Agency for Waste Management  
 Co-founder @ Mowell  
 Robotics MSc @ NMBU
